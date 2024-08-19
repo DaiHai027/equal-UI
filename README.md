@@ -35,11 +35,6 @@ Equal UI is a Vue 3 hackable components library with 30+ components on top of Ta
 - 👌 Lightweight: 12KB brotli
 - 🔧 Includes 30+ components
 - 💅 Uses your Tailwindcss classes
-
-# Links
-
-<b> Twitter: </b> [@Yan](https://twitter.com/k0mmsussertod)
-
 # Install
 
 You need [Vue.js](https://v3.vuejs.org/) version 3.1+
